@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.71.1 (2025-12-03)
+
+Full Changelog: [sdk-v0.71.0...sdk-v0.71.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.71.0...sdk-v0.71.1)
+
+### Chores
+
+* **client:** fix logger property type ([e3e4d7c](https://github.com/anthropics/anthropic-sdk-typescript/commit/e3e4d7c40c986668ed46a3f4040d60bfd2c7e76b))
+* **internal:** upgrade eslint ([5fbe661](https://github.com/anthropics/anthropic-sdk-typescript/commit/5fbe661d009446ab98c7b7488a8955238276b55e))
+
 ## 0.71.0 (2025-11-24)
 
 Full Changelog: [sdk-v0.70.1...sdk-v0.71.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.70.1...sdk-v0.71.0)
